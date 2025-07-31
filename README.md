@@ -38,18 +38,3 @@ You can also watch a quick screen recording of the code execution here:
 📹 [Watch on Google Drive](https://drive.google.com/file/d/1VhMzy7VbY2TdxvOMjcdVwvd4NZgYOEx4/view?usp=sharing)
 
 
-## 🖼 Sample Visualization
-
-The following bar chart shows the top 5 trending videos by views:
-
-![Top 5 Trending Videos](top5_trending_views.png)
-
-## 🗂 Project Structure
-## ▶ How to Run This Project
-
-
-# 1. Clone the repo or download the files
-# 2. Install the required libraries
-pip install -r requirements.txt
-
-# 3. Run the Python file
